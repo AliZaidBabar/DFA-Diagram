@@ -1,2 +1,2 @@
-# assingment-1-
+# DFA
 Program of DFA Diagram 
